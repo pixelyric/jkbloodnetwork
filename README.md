@@ -44,5 +44,5 @@ Local development uses SQLite (`donors.db`) in the project folder. Donor data is
 
 ## Notes
 
-- Only `donors.db` is used locally. The project ships with empty donor and user tables for a fresh start.
-- `donors.csv` stays synchronized with the database whenever a donor is registered.
+- Only `donors.db` is used locally.
+- `donors.csv` is synchronized with the database whenever a donor is registered.
