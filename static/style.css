@@ -114,7 +114,7 @@ button, input, select, textarea { font-family: inherit; }
   border: 1px solid var(--red);
   color: var(--red);
   border-radius: var(--radius);
-  font-size: 0.875rem;
+  font-size: 0.876rem;
   font-weight: 500;
   transition: background var(--transition), color var(--transition);
 }
